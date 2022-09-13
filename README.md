@@ -1,4 +1,5 @@
-# Java-BrickBreakerGame
+# Java-BrickBreaker
+
 
 Brick Breaker game programmed using Java on Eclipse
 
